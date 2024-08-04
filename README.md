@@ -2,6 +2,9 @@
 
 This repository contains my practice work and exercises based on the YouTube Codebasics NLP playlist. The aim of this repository is to document my learning journey in NLP, covering a range of fundamental topics and culminating in a project that applies these concepts.
 
+![1658298294344](https://github.com/user-attachments/assets/ff940800-5f88-4947-a5e4-a01661674677)
+
+
 # Topics Covered
 ## 1. Regular Expressions
 - Learning how to use regular expressions for pattern matching in text.
